@@ -4,3 +4,5 @@ Ez a projekte a gázrobbanás veszélyére hívja fel a figyelmet.
 A projekt egy arduino, egy gázszenzor, két led, és egy hangszóróból áll. Ha a gázszenzor egy szokatlan értéket érzékel, akkor megszólal
 a riasztó, továbbá a ledek mutatják a riasztó státuszát, tehát zölden világít ha minden renben, illetve pirosan villog es riaszt, ha baj
 van.
+
+Projektről képek: https://imgur.com/a/peBfE
